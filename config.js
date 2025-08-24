@@ -10,6 +10,6 @@ module.exports = {
         clientId: "a568b55af1d940aca52ea8fe02f0d93b",
         clientSecret: "e8199f4024fe49c5b22ea9a3dd0c4789"
     },
-    botToken: "MTQwNzg5Mjk1NzE1OTQ4OTYwOQ.GhJbCa.M4iXfHdRuvs0oHQXTOga3YN432jl6AJN-VFvPY",
+    botToken: "",
     embedColor: "#ff9d3b"
 };
